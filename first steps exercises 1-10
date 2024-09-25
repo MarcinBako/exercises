@@ -1,0 +1,70 @@
+1.  Print "Hello, World!" to the console.
+
+print "hello, World!"
+_________________________________________
+2.  Create a variable to store your name and print it.
+
+name = "Marcin"
+print(name)
+_________________________________________
+3.  Ask the user for their name and greet them.
+
+user_name = ()
+greetings = (f"Hello {user_name}, welcome to ours project!")
+print(greetings)
+
+user_name = "Olaf"
+_________________________________________
+4.  Calculate the sum of two numbers entered by the user.
+
+number_1 = () 
+number_2 = ()
+sum_of_numbers = number_1 + number_2
+print(sum_of_numbers)
+_________________________________________
+5.  Calculate the product of two numbers entered by the user.
+
+number_1 = () 
+number_2 = ()
+sum_of_numbers = number_1 * number_2
+_________________________________________
+6.  Convert Celsius to Fahrenheit.
+
+c = []
+f = (c * 1.8) + 32
+_________________________________________
+7. Convert Fahrenheit to Celsius.
+
+f = []
+c = (f - 32) / 1.8
+_________________________________________
+8.	Calculate the area of a rectangle.
+
+a = []
+b = []
+c = a * b
+_________________________________________
+9.	Calculate the area of a circle.
+
+pi = []
+radius = []
+area = pi * radius *radius 
+_________________________________________
+10.	Calculate the volume of a cube.
+
+length = [] 
+width = []
+height = []
+cube_volume = lenght * width * height
+__________________________________________
+11.	Check if a number is even or odd.
+
+
+
+
+
+
+
+
+
+
