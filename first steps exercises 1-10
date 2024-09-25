@@ -32,11 +32,13 @@ _________________________________________
 
 c = []
 f = (c * 1.8) + 32
+#help from uncle google
 _________________________________________
 7. Convert Fahrenheit to Celsius.
 
 f = []
 c = (f - 32) / 1.8
+# help from uncle google
 _________________________________________
 8.	Calculate the area of a rectangle.
 
@@ -49,6 +51,7 @@ _________________________________________
 pi = []
 radius = []
 area = pi * radius *radius 
+#help from uncle google
 _________________________________________
 10.	Calculate the volume of a cube.
 
@@ -57,14 +60,3 @@ width = []
 height = []
 cube_volume = lenght * width * height
 __________________________________________
-11.	Check if a number is even or odd.
-
-
-
-
-
-
-
-
-
-
