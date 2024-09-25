@@ -1,0 +1,41 @@
+11.	Check if a number is even or odd.
+
+number = []
+if number / 2 == int:
+    print("number is even")
+else:
+     print("number is odd")
+__________________________________________
+12.	Find the largest of two numbers.
+
+number_1[]
+number_2[]
+if number1 > number_2:
+    print(number_1)
+else:
+    print(number_2)
+__________________________________________
+13.	Find the largest of three numbers.
+
+
+number_1[]
+number_2[]
+number_3[]
+if number_1 > number_2 and number_3:
+    print(number_1)
+elif number_2 > number_1 and number_3:
+    print(number_2)
+else:
+    print(number_3)
+___________________________________________
+14.	Check if a year is a leap year.
+
+___________________________________________
+15.	Calculate the factorial of a number.
+
+
+
+
+
+
+
