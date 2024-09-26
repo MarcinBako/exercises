@@ -1,6 +1,6 @@
 11.	Check if a number is even or odd.
 
-number = []
+number = ()
 if number / 2 == int:
     print("number is even")
 else:
@@ -8,8 +8,8 @@ else:
 __________________________________________
 12.	Find the largest of two numbers.
 
-number_1[]
-number_2[]
+number_1 = ()
+number_2 = ()
 if number1 > number_2:
     print(number_1)
 else:
@@ -18,9 +18,9 @@ __________________________________________
 13.	Find the largest of three numbers.
 
 
-number_1[]
-number_2[]
-number_3[]
+number_1 = ()
+number_2 = ()
+number_3 = ()
 if number_1 > number_2 and number_3:
     print(number_1)
 elif number_2 > number_1 and number_3:
@@ -33,6 +33,7 @@ ___________________________________________
 ___________________________________________
 15.	Calculate the factorial of a number.
 
+number = 
 
 
 
