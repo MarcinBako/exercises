@@ -30,33 +30,33 @@ sum_of_numbers = number_1 * number_2
 _________________________________________
 6.  Convert Celsius to Fahrenheit.
 
-c = []
+c = ()
 f = (c * 1.8) + 32
 #help from uncle google
 _________________________________________
 7. Convert Fahrenheit to Celsius.
 
-f = []
+f = ()
 c = (f - 32) / 1.8
 # help from uncle google
 _________________________________________
 8.	Calculate the area of a rectangle.
 
-a = []
-b = []
+a = ()
+b = ()
 c = a * b
 _________________________________________
 9.	Calculate the area of a circle.
 
-pi = []
-radius = []
+pi = ()
+radius = ()
 area = pi * radius *radius 
 #help from uncle google
 _________________________________________
 10.	Calculate the volume of a cube.
 
-length = [] 
-width = []
-height = []
+length = () 
+width = ()
+height = ()
 cube_volume = lenght * width * height
 __________________________________________
