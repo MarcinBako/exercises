@@ -9,24 +9,29 @@ print(name)
 _________________________________________
 3.  Ask the user for their name and greet them.
 
-user_name = ()
+user_name = input("What's your name?: ")
 greetings = (f"Hello {user_name}, welcome to ours project!")
 print(greetings)
 
-user_name = "Olaf"
+# exercise corrected
 _________________________________________
 4.  Calculate the sum of two numbers entered by the user.
 
-number_1 = () 
-number_2 = ()
-sum_of_numbers = number_1 + number_2
+number_1 = input("Select a number 1:")
+number_2 = input("Select a number 2:")
+sum_of_numbers = int(number_1) + int(number_2)
 print(sum_of_numbers)
+
+# exercise corrected
 _________________________________________
 5.  Calculate the product of two numbers entered by the user.
 
-number_1 = () 
-number_2 = ()
-sum_of_numbers = number_1 * number_2
+number_1 = input("Select a number 1:")
+number_2 = input("Select a number 2:")
+product_of_numbers = int(number_1) * int(number_2)
+print(product_of_numbers)
+
+# exercise corrected
 _________________________________________
 6.  Convert Celsius to Fahrenheit.
 
