@@ -118,7 +118,17 @@ miles = 10
 kilometers = miles * 1.6
 print(kilometers)
 
+_________________________________________________________________
 
+19.	Convert kilometers to miles.
+
+kilometers = 10
+miles = kilometers / 0.621371
+print(miles)
+
+_________________________________________________________________
+
+20.  Calculate the hypotenuse of a right-angled triangle.
 
 
 
