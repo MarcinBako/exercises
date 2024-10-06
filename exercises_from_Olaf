@@ -1,0 +1,252 @@
+1.	Print "Hello, World!" to the console.
+	2.	Create a variable to store your name and print it.
+	3.	Ask the user for their name and greet them.
+	4.	Calculate the sum of two numbers entered by the user.
+	5.	Calculate the product of two numbers entered by the user.
+	6.	Convert Celsius to Fahrenheit.
+	7.	Convert Fahrenheit to Celsius.
+	8.	Calculate the area of a rectangle.
+	9.	Calculate the area of a circle.
+	10.	Calculate the volume of a cube.
+	11.	Check if a number is even or odd.
+	12.	Find the largest of two numbers.
+	13.	Find the largest of three numbers.
+	14.	Check if a year is a leap year.
+	15.	Calculate the factorial of a number.
+	16.	Generate a random number between 1 and 10.
+	17.	Create a simple calculator (addition, subtraction, multiplication, division).
+	18.	Convert miles to kilometers.
+	19.	Convert kilometers to miles.
+	20.	Calculate the hypotenuse of a right-angled triangle.
+	21.	Calculate the area of a triangle.
+	22.	Check if a number is positive, negative, or zero.
+	23.	Swap the values of two variables.
+	24.	Convert days to seconds.
+	25.	Calculate the square root of a number.
+	26.	Find the absolute value of a number.
+	27.	Round a floating-point number to the nearest integer.
+	28.	Calculate the average of three numbers.
+	29.	Convert a string to uppercase.
+	30.	Convert a string to lowercase.
+	31.	Count the number of characters in a string.
+	32.	Check if a string is empty.
+	33.	Reverse a string.
+	34.	Check if a string is a palindrome.
+	35.	Remove whitespace from the beginning and end of a string.
+	36.	Replace a substring in a string.
+	37.	Split a string into a list of words.
+	38.	Join a list of strings into a single string.
+	39.	Find the index of a substring in a string.
+	40.	Check if a string starts with a specific substring.
+	41.	Check if a string ends with a specific substring.
+	42.	Convert a string to title case.
+	43.	Count the occurrences of a character in a string.
+	44.	Create a list of numbers from 1 to 10.
+	45.	Print all elements in a list.
+	46.	Find the sum of all elements in a list.
+	47.	Find the largest element in a list.
+	48.	Find the smallest element in a list.
+	49.	Remove duplicates from a list.
+	50.	Check if an element exists in a list.
+	51.	Reverse a list.
+	52.	Sort a list in ascending order.
+	53.	Sort a list in descending order.
+	54.	Create a list of even numbers from 1 to 20.
+	55.	Create a list of odd numbers from 1 to 20.
+	56.	Find the second largest number in a list.
+	57.	Remove a specific element from a list.
+	58.	Concatenate two lists.
+	59.	Create a list of squares of numbers from 1 to 10.
+	60.	Find the common elements between two lists.
+	61.	Create a dictionary of student names and their ages.
+	62.	Add a new key-value pair to a dictionary.
+	63.	Remove a key-value pair from a dictionary.
+	64.	Check if a key exists in a dictionary.
+	65.	Print all keys in a dictionary.
+	66.	Print all values in a dictionary.
+	67.	Print all key-value pairs in a dictionary.
+	68.	Create a tuple of days of the week.
+	69.	Access elements in a tuple.
+	70.	Convert a tuple to a list.
+	71.	Convert a list to a tuple.
+	72.	Create a set of unique numbers.
+	73.	Add an element to a set.
+	74.	Remove an element from a set.
+	75.	Find the union of two sets.
+	76.	Find the intersection of two sets.
+	77.	Check if a set is a subset of another set.
+	78.	Create a function to greet a person.
+	79.	Create a function to calculate the square of a number.
+	80.	Create a function to check if a number is prime.
+	81.	Create a function to generate Fibonacci sequence up to n terms.
+	82.	Use a for loop to print numbers from 1 to 10.
+	83.	Use a while loop to print numbers from 1 to 10.
+	84.	Print the multiplication table of a given number.
+	85.	Calculate the sum of numbers from 1 to 100 using a loop.
+	86.	Print a pattern of asterisks (e.g., a right-angled triangle).
+	87.	Find all factors of a given number.
+	88.	Check if a number is Armstrong number.
+	89.	Generate a list of prime numbers up to n.
+	90.	Implement a simple guessing game (computer generates a number, user guesses).
+	91.	Count the number of vowels in a string.
+	92.	Count the number of words in a sentence.
+	93.	Convert a decimal number to binary.
+	94.	Convert a binary number to decimal.
+	95.	Check if a number is a perfect square.
+	96.	Calculate the power of a number (without using **).
+	97.	Find the GCD (Greatest Common Divisor) of two numbers.
+	98.	Find the LCM (Least Common Multiple) of two numbers.
+	99.	Implement a simple rock-paper-scissors game.
+	100.	Create a program that simulates rolling a die.
+ ----------------------------------------------------------------------------------------------------------
+ 1.	Implement a binary search algorithm.
+	2.	Create a program that checks if a string is an anagram of another string.
+	3.	Write a function to find the second largest number in a list.
+	4.	Implement a simple Caesar cipher encryption/decryption.
+	5.	Create a program that validates a password based on certain criteria (length, characters, etc.).
+	6.	Write a function to remove all duplicates from a list while preserving the order.
+	7.	Implement a basic stack data structure using a list.
+	8.	Create a program that finds all prime numbers up to a given number using the Sieve of Eratosthenes.
+	9.	Write a function to check if a given number is a perfect number.
+	10.	Implement a basic queue data structure using a list.
+	11.	Create a program that generates a random strong password.
+	12.	Write a function to find the longest word in a sentence.
+	13.	Implement a basic linked list data structure.
+	14.	Create a program that converts a decimal number to Roman numerals.
+	15.	Write a function to find all occurrences of a substring in a given string.
+	16.	Implement a basic binary tree data structure.
+	17.	Create a program that solves a quadratic equation.
+	18.	Write a function to rotate a list by n positions.
+	19.	Implement a basic hash table (dictionary) from scratch.
+	20.	Create a program that plays the game of Hangman.
+	21.	Write a function to find the missing number in a given integer array of 1 to 100.
+	22.	Implement a basic bubble sort algorithm.
+	23.	Create a program that generates the Pascal's triangle up to n rows.
+	24.	Write a function to check if a given string is a valid palindrome ignoring non-alphanumeric characters.
+	25.	Implement a basic selection sort algorithm.
+	26.	Create a program that simulates a basic ATM machine.
+	27.	Write a function to find the intersection of two lists.
+	28.	Implement a basic insertion sort algorithm.
+	29.	Create a program that plays the game of Tic Tac Toe.
+	30.	Write a function to find the longest common prefix of an array of strings.
+	31.	Implement a basic merge sort algorithm.
+	32.	Create a program that simulates a basic vending machine.
+	33.	Write a function to convert an integer to its English word representation.
+	34.	Implement a basic quick sort algorithm.
+	35.	Create a program that simulates a simple card game (e.g., War).
+	36.	Write a function to find the first non-repeating character in a string.
+	37.	Implement a basic heap data structure.
+	38.	Create a program that generates a maze and solves it.
+	39.	Write a function to perform basic string compression using the counts of repeated characters.
+	40.	Implement a basic graph data structure.
+	41.	Create a program that simulates a simple text-based adventure game.
+	42.	Write a function to check if two strings are one edit (or zero edits) away.
+	43.	Implement Dijkstra's algorithm for finding the shortest path in a graph.
+	44.	Create a program that simulates a basic spreadsheet (e.g., sum of rows/columns).
+	45.	Write a function to find all permutations of a given string.
+	46.	Implement a basic trie data structure for efficient string searches.
+	47.	Create a program that simulates a simple chatbot.
+	48.	Write a function to find the equilibrium index of an array.
+	49.	Implement a basic LRU (Least Recently Used) cache.
+	50.	Create a program that solves Sudoku puzzles.
+ -----------------------------------------------------------------------------------------------------------
+ 1.	Use list comprehension to create a list of squares of even numbers from 1 to 20.
+	2.	Create a dictionary using dictionary comprehension where keys are numbers from 1 to 10 and values are their cubes.
+	3.	Use enumerate() to print items of a list with their indices.
+	4.	Implement a custom sorting key to sort a list of strings by their last letter.
+	5.	Use zip() to create a dictionary from two lists.
+	6.	Create a function that uses *args to sum an arbitrary number of arguments.
+	7.	Write a function with **kwargs that creates HTML tags.
+	8.	Use lambda functions with map() to convert a list of temperatures from Celsius to Fahrenheit.
+	9.	Implement a decorator that measures the execution time of a function.
+	10.	Create a generator function that yields the Fibonacci sequence.
+	11.	Use itertools.combinations() to generate all possible pairs from a list.
+	12.	Implement a context manager for file handling using the with statement.
+	13.	Use collections.Counter to find the most common words in a text file.
+	14.	Create a custom exception class and use it in a try-except block.
+	15.	Use functools.reduce() to find the product of all numbers in a list.
+	16.	Implement a simple class with _init_, _str_, and _repr_ methods.
+	17.	Create a class method and a static method for a custom class.
+	18.	Implement operator overloading in a custom class (e.g., _add_, _eq_).
+	19.	Use property decorator to create a getter and setter for a class attribute.
+	20.	Implement a custom iterator class.
+	21.	Use collections.defaultdict to group items by a key.
+	22.	Create a function that uses yield from to flatten a nested list.
+	23.	Use itertools.cycle() to create an infinite iterator.
+	24.	Implement a memoization decorator for a recursive function (e.g., Fibonacci).
+	25.	Use functools.partial() to create a new function with some arguments fixed.
+	26.	Create a metaclass that adds logging to all methods of a class.
+	27.	Use abc module to create an abstract base class.
+	28.	Implement a simple plugin system using importlib.
+	29.	Use concurrent.futures to parallelize a CPU-bound task.
+	30.	Create a coroutine using async and await.
+	31.	Use asyncio to fetch multiple URLs concurrently.
+	32.	Implement a simple key-value store using shelve.
+	33.	Use csv module to read and write CSV files.
+	34.	Parse command-line arguments using argparse.
+	35.	Use logging module to add logging to a script.
+	36.	Create a config file parser using configparser.
+	37.	Use unittest to write test cases for a function.
+	38.	Implement a simple web scraper using requests and BeautifulSoup.
+	39.	Create a simple GUI application using tkinter.
+	40.	Use pickle to serialize and deserialize Python objects.
+	41.	Implement a simple socket server and client.
+	42.	Use subprocess to run and interact with external commands.
+	43.	Create a simple REST API using Flask.
+	44.	Use re module to validate email addresses.
+	45.	Implement a caching mechanism using functools.lru_cache.
+	46.	Use itertools.groupby() to group items in a list.
+	47.	Create a context manager that suppresses specific exceptions.
+	48.	Use collections.namedtuple to create a simple data class.
+	49.	Implement a custom sorting algorithm (e.g., bubble sort, merge sort).
+	50.	Use heapq to find the n largest or smallest items in a collection.
+	51.	Create a decorator that retries a function with exponential backoff.
+	52.	Use contextlib.contextmanager to create a context manager.
+	53.	Implement a simple pub-sub system using collections.defaultdict.
+	54.	Use operator module functions with functools.reduce().
+	55.	Create a mixin class and use it in multiple inheritance.
+	56.	Use dataclasses to create a data class with default values.
+	57.	Implement a simple state machine using a dictionary of functions.
+	58.	Use typing module to add type hints to a function.
+	59.	Create a custom container class that supports indexing.
+	60.	Use collections.ChainMap to search through multiple dictionaries.
+	61.	Implement a simple caching decorator with timeout.
+	62.	Use itertools.permutations() to generate all permutations of a string.
+	63.	Create a context manager for changing the current working directory.
+	64.	Use functools.singledispatch to create a generic function.
+	65.	Implement a simple event system using a dictionary of lists.
+	66.	Use weakref to create a weak reference to an object.
+	67.	Create a descriptor that validates attribute values.
+	68.	Use dis module to disassemble a Python function.
+	69.	Implement a simple ORM using metaclasses.
+	70.	Use inspect module to get information about live objects.
+	71.	Create a decorator that adds attributes to functions.
+	72.	Use operator.itemgetter() to sort a list of dictionaries.
+	73.	Implement a simple finite state machine using classes.
+	74.	Use collections.deque for a fixed-size FIFO queue.
+	75.	Create a context manager for temporarily redirecting stdout.
+	76.	Use functools.wraps to preserve metadata when creating decorators.
+	77.	Implement a simple in-memory cache using a dictionary and time module.
+	78.	Use itertools.chain() to flatten a list of lists.
+	79.	Create a metaclass that automatically registers classes.
+	80.	Use operator.methodcaller() with map() to call methods on a list of objects.
+	81.	Implement a simple rate limiter using time.sleep().
+	82.	Use functools.total_ordering to complete ordering operations on a custom class.
+	83.	Create a context manager for timing code execution.
+	84.	Use itertools.product() to generate Cartesian product of input iterables.
+	85.	Implement a simple dependency injection container.
+	86.	Use collections.OrderedDict to create a dictionary that remembers insertion order.
+	87.	Create a decorator that checks function argument types at runtime.
+	88.	Use operator.attrgetter() to sort objects by multiple attributes.
+	89.	Implement a simple observer pattern using a class.
+	90.	Use itertools.islice() to work with infinite generators.
+	91.	Create a context manager for temporarily setting an environment variable.
+	92.	Use functools.cache (Python 3.9+) to memoize a function.
+	93.	Implement a simple command pattern using classes.
+	94.	Use collections.UserDict to create a custom dictionary-like class.
+	95.	Create a decorator that logs function calls and their arguments.
+	96.	Use itertools.takewhile() and itertools.dropwhile() on a sorted list.
+	97.	Implement a simple proxy pattern using _getattr_.
+	98.	Use contextlib.ExitStack to dynamically manage a variable number of context managers.
+	99.	Create a metaclass that automatically adds properties for all attributes.
+	100.	Use functools.update_wrapper() to create a well-behaved decorator.
