@@ -1,36 +1,49 @@
 11.	Check if a number is even or odd.
 
-number = ()
-if number / 2 == int:
+number = 44
+if number % 2 == 0:
     print("number is even")
 else:
      print("number is odd")
+
+# exercise corrected
 __________________________________________
 12.	Find the largest of two numbers.
 
-number_1 = ()
-number_2 = ()
-if number1 > number_2:
+number_1 = input("Your number 1:")
+number_2 = input("your number 2:")
+if number_1 > number_2:
     print(number_1)
 else:
     print(number_2)
+
+# exercise corrected
 __________________________________________
 13.	Find the largest of three numbers.
 
 
-number_1 = ()
-number_2 = ()
-number_3 = ()
-if number_1 > number_2 and number_3:
+number_1 = 9
+number_2 = 8
+number_3 = 6
+if number_1 > (number_2 and number_3):
     print(number_1)
-elif number_2 > number_1 and number_3:
+elif number_2 > (number_1 and number_3):
     print(number_2)
 else:
     print(number_3)
+
+# exercise corrected
 ___________________________________________
 14.	Check if a year is a leap year.
 
-#???
+year = 2003
+
+if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
+    print("Leap Year")
+else:
+    print("Not a Leap Year")
+
+# help from uncle google
 ___________________________________________
 15.	Calculate the factorial of a number.
 
@@ -39,6 +52,7 @@ fact = 1
 for i in range(1, num+1):
     fact = fact * i
 print(fact)
+
 # help from uncle google
 # nie kumam
 __________________________________________
@@ -47,11 +61,62 @@ __________________________________________
 import random
 number = random.randint(1, 10)
 print(number)
+
 # help from uncle google
-# nie kumam
+# now i understand
 ___________________________________________
 17.	Create a simple calculator (addition, subtraction, multiplication, division).
 
+def add(num1, num2):
+    return num1 + num2
+
+def subtract(num1, num2):
+    return num1 - num2
+
+def multiply(num1, num2):
+    return num1 * num2
+
+def divide(num1, num2):
+    return num1 / num2
+
+print("Please select operation -\n" \      # "-\n" \" jaką to pełni funkcje?
+        "1. Add\n" \
+        "2. Subtract\n" \
+        "3. Multiply\n" \
+        "4. Divide\n")
+
+select = int(input("Select operations form 1, 2, 3, 4 :"))
+
+number_1 = int(input("Enter first number: "))
+number_2 = int(input("Enter second number: "))
+
+if select == 1:
+    print(number_1, "+", number_2, "=",
+                    add(number_1, number_2))
+
+elif select == 2:
+    print(number_1, "-", number_2, "=",
+                    subtract(number_1, number_2))
+
+elif select == 3:
+    print(number_1, "*", number_2, "=",
+                    multiply(number_1, number_2))
+
+elif select == 4:
+    print(number_1, "/", number_2, "=",
+                    divide(number_1, number_2))
+else:
+    print("Invalid input")
+
+# stolen from google, but mostly understand
+
+_________________________________________________________________
+
+18.	Convert miles to kilometers
+
+miles = 10
+kilometers = miles * 1.6
+print(kilometers)
 
 
 
